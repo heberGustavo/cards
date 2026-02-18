@@ -1,27 +1,40 @@
-# Cards
+<h1 align="center">
+  CARDS
+</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+</br>
+  
+<p align="center">
+   <a href="#round_pushpin-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#round_pushpin-infra">Infra</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wrench-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-## Development server
+## :round_pushpin: Demo
+Obs: 
+  - PT-BR: Exemplo de estruturação e componentização de uma tela de Cards
+  - EN: Example of structuring and componentizing a Cards screen.
+<img width="1910" height="938" alt="Captura de tela 2026-02-18 141046" src="https://github.com/user-attachments/assets/b20c9ba3-6ac4-4bd3-9409-f4d2d210f5a7" />
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## :round_pushpin: Infra
+<img width="292" height="845" alt="Captura de tela 2026-02-18 141226" src="https://github.com/user-attachments/assets/c9a046ca-5efd-4f19-b6c1-40e1ceea6652" />
 
-## Code scaffolding
+## :wrench: Como usar
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Clone that application using [Git](https://git-scm.com) and follow the next steps:
 
-## Build
+```bash
+# 1. Clone esse repositório 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# 2. Abra o projeto no Visual Studio Code
 
-## Running unit tests
+# 3. Para rodar a aplicação Angular
+$ ng serve
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
 
-## Running end-to-end tests
+## Autor
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+| [<img src="https://avatars.githubusercontent.com/u/44476616?v=4" style="max-width: 100%;width: 90px;"><br><sub>Heber Gustavo</sub>](https://github.com/heberGustavo) |
+| :---: |
+|[Linkedin](https://www.linkedin.com/in/heber-gustavo/)|
